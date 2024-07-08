@@ -1,2 +1,3 @@
-# calculator_java_1
-homework
+# calculator_java_
+homework for Riga Coding School
+first task 
